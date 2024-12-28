@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Nandu064
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋, I'm Harish Yerraguntla
 
-<!---
-Nandu064/Nandu064 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer passionate about building web applications with modern technologies 🚀
+
+## About Me
+- 👀 I'm interested in Full Stack Development (MERN Stack)
+- 🌱 Currently learning Advanced React Patterns & Microservices
+- 💼 Working on scalable web applications
+- 📫 Reach me at: harish.yerraguntla06@gmail.com
+
+## Tech Stack
+- Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code
+- Other: REST APIs, TypeScript, Redux
+
+## Looking to Collaborate on
+- Full Stack JavaScript Projects
+- React.js/Node.js Applications
+- REST API Development
+- Database Optimization Projects
+
+## Connect With Me
+- Email: harish.yerraguntla98@gmail.com
+- Phone: (205) 736-5808
