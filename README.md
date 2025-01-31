@@ -9,7 +9,7 @@ Full Stack Developer passionate about building web applications with modern tech
 - 📫 Reach me at: harish.yerraguntla98@gmail.com
 
 ## Tech Stack
-- Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+- Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Next.js
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, GitHub, VS Code
