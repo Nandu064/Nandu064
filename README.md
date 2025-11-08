@@ -39,25 +39,6 @@
   <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript-%233178C6"/>
 </p>
 
----
-
-### 🌟 Featured Projects
-<!-- Replace the repo links and one-liners with your best work -->
-- **[project-name-1](https://github.com/yourusername/project-name-1)** — Next.js + Node.js app with SSR; **<3s FCP** and auth + role-based access.
-- **[project-name-2](https://github.com/yourusername/project-name-2)** — Realtime dashboards using WebSockets; **p95 latency −30%** via indexing + caching.
-- **[project-name-3](https://github.com/yourusername/project-name-3)** — MERN boilerplate with TS, JWT, testing, and CI/CD (deploy to Vercel/Render).
-
-> Tip: Pin your top 3–6 repos on GitHub profile → *Customize your pins* for instant visibility.
-
----
-
-### 📈 By the numbers
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarishYerraguntla&show_icons=true&count_private=true&hide=stars&include_all_commits=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarishYerraguntla" height="150" />
-</p>
-
----
 
 ### 🤝 Open to Collaborate On
 - Full-stack React/Node apps • REST/GraphQL APIs • Performance/DB optimization
