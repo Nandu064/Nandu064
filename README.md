@@ -6,7 +6,7 @@ Full Stack Developer passionate about building web applications with modern tech
 - 👀 I'm interested in Full Stack Development (MERN Stack)
 - 🌱 Currently learning Advanced React Patterns & Microservices
 - 💼 Working on scalable web applications
-- 📫 Reach me at: harish.yerraguntla98@gmail.com
+- 📫 Reach me at: yerraguntlaharish98@gmail.com
 
 ## Tech Stack
 - Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Next.js
