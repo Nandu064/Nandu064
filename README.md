@@ -155,7 +155,7 @@ const harish = {
 I'm always open to collaborating on interesting projects and ideas.
 
 [![Email](https://img.shields.io/badge/yerraguntlaharish98@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yerraguntlaharish98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/harish--yerraguntla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-yerraguntla)
+[![LinkedIn](https://img.shields.io/badge/harish--yerraguntla-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-yerraguntla-a599a3356/)
 
 <br/>
 
