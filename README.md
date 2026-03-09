@@ -41,6 +41,67 @@ const harish = {
 
 <div align="center">
 
+<a href="https://github.com/Nandu064/finguard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandu064&repo=finguard&theme=default&border_color=e2e8f0&title_color=4F46E5&icon_color=4F46E5" />
+</a>
+
+</div>
+
+### [FinGuard](https://finguard-phi.vercel.app) — Portfolio Risk Analytics Platform
+
+> Institutional-grade portfolio risk analysis for retail investors with Monte Carlo simulations, Efficient Frontier optimization, and interactive analytics dashboards.
+
+<table>
+<tr>
+<td width="50%">
+
+**What it does**
+
+- Build and manage stock portfolios
+- Monte Carlo simulation for future price scenarios
+- Efficient Frontier optimization for optimal asset allocation
+- Portfolio risk metrics (Sharpe, Sortino, VaR, Drawdown)
+- Correlation heatmaps and sector exposure analysis
+- Benchmark comparison vs market indexes
+
+</td>
+<td width="50%">
+
+**Engineering highlights**
+
+- Python **FastAPI microservice** for quantitative finance computations
+- **NumPy, SciPy, pandas** powering financial models
+- Next.js dashboard with interactive **Plotly.js visualizations**
+- Dual API architecture (**REST + GraphQL**)
+- JWT authentication with **NextAuth v5**
+- Graceful degradation when analytics service is unavailable
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://finguard-phi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Nandu064/finguard"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
+
+<div align="center">
+
 <a href="https://github.com/Nandu064/sniplink">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nandu064&repo=sniplink&theme=default&border_color=e2e8f0&title_color=4F46E5&icon_color=4F46E5" />
 </a>
